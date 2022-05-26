@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9aa2ef88-8717-4e4c-845e-edff65530e37" name="Changes" comment="Nwe gausJordan metod!">
+      <change beforePath="$PROJECT_DIR$/../Count/newFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Count/newFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count/src/main/java/countingNumbers/countingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Count/src/main/java/countingNumbers/countingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count/target/classes/countingNumbers/countingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Count/target/classes/countingNumbers/countingNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GaussJordan/GaussJordan/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GaussJordan/GaussJordan/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GaussJordan/GaussJordan/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GaussJordan/GaussJordan/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GaussJordan/GaussJordan/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GaussJordan/GaussJordan/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixJordana/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MatrixJordana/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unnamed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/src/main/java/GaussJordanElimination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/gauss2/target/classes/GaussJordanElimination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/src/main/java/net/coderodde/math/linear/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/src/main/java/net/coderodde/math/linear/GaussJordanElimination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/src/main/java/net/coderodde/math/linear/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/src/main/java/net/coderodde/math/linear/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/target/classes/net/coderodde/math/linear/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/target/classes/net/coderodde/math/linear/GaussJordanElimination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/target/classes/net/coderodde/math/linear/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled/target/classes/net/coderodde/math/linear/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/java/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/java/GaussJordanElimination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/java/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/java/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/java/org/example/MyPluginComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/java/org/example/MyPluginComponentImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/resources/atlassian-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/resources/css/untitled123.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/resources/images/pluginIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/resources/images/pluginLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/resources/js/untitled123.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/main/resources/untitled123.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/test/java/org/example/it/MyComponentWiredTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/test/java/org/example/ut/MyComponentUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/src/test/resources/atlassian-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/classes/atlassian-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/classes/css/untitled123.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/classes/images/pluginIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/classes/images/pluginLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/classes/js/untitled123.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/classes/untitled123.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/untitled123/target/test-classes/atlassian-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yrok/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yrok/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yrok/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yrok/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yrok/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yrok/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28s8wBas9c8XxsWhDH208gNtepU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="GaussJordanElimination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GaussJordanElimination" />
+      <module name="gauss2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GaussJordanElimination" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa2ef88-8717-4e4c-845e-edff65530e37" name="Changes" comment="" />
+      <created>1651994168330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651994168330</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Nwe gaus metod">
+      <created>1651994295801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651994295801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Nwe gausJordan metod!">
+      <created>1652041508064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652041508064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nwe gaus metod" />
+    <MESSAGE value="Nwe gaus metod!" />
+    <MESSAGE value="Nwe gausJordan metod!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nwe gausJordan metod!" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gauss2$Gauss_Jordan_Elimination.ic" NAME="Gauss_Jordan_Elimination Coverage Results" MODIFIED="1651994771267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
