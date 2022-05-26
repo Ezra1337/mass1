@@ -1,6 +1,7 @@
 package net.coderodde.math.linear;
 
 import java.util.Random;
+
 import static net.coderodde.math.linear.GaussJordanElimination.isNotFeasible;
 
 /**
@@ -14,7 +15,7 @@ public class Demo {
         final StringBuilder sb = new StringBuilder(80);
 
         for (int i = 0; i < 80; ++i) {
-            sb.append('-');
+            sb.append('-');  //обновляет значение объекта, который вызвал метод
         }
 
         BAR = sb.toString();
@@ -27,10 +28,10 @@ public class Demo {
     }
 
     private static void helloWorldDemo() {
-        Matrix m = new Matrix(new double[][] {
-                { 1.0, 3.0, -2.0, 5.0 },
-                { 3.0, 5.0, 6.0, 7.0  },
-                { 2.0, 4.0, 3.0, 8.0  },
+        Matrix m = new Matrix(new double[][]{
+                {1.0, 3.0, -2.0, 5.0},
+                {3.0, 5.0, 6.0, 7.0},
+                {2.0, 4.0, 3.0, 8.0},
         });
 
         System.out.println(m);
@@ -43,12 +44,12 @@ public class Demo {
 
         bar();
 
-        m = new Matrix(new double[][] {
-                { 1.0, 3.0, -2.0, 5.0 },
-                { 3.0, 5.0, 6.0, 7.0  },
-                { 4.0, 8.0, 6.0, 16.0 },
-                { 2.0, 4.0, 3.0, 8.0  },
-                { 1.0, 1.0, 1.0, -5.0 },
+        m = new Matrix(new double[][]{
+                {3.0, 1.0, 0.0, 0.0},
+                {0.0, 3.0, 1.0, 0.0},
+                {0.0, 1.0, 3.0, 0.0},
+                {0.0, 0.0, 0.0, 2.0},
+
         });
 
         System.out.println(m);
@@ -61,13 +62,14 @@ public class Demo {
 
         bar();
 
-        m = new Matrix(new double[][] {
-                { 1.0, 3.0, -2.0, 5.0 },
-                { 3.0, 5.0, 6.0, 7.0  },
-                { 3.0, 5.0, 6.0, 8.0  },
+        m = new Matrix(new double[][]{
+                {2.0, 0.0, 0.0},
+                {1.0, 3.0, 1.0},
+                {-1.0, -1.0, 1.0},
         });
 
         System.out.println(m);
+
 
         rank = GaussJordanElimination.solve(m);
 

@@ -183,7 +183,7 @@ public class GaussJordanElimination {
                 System.out.println(" " + x[i] + "\n");
             }
         } else {
-            System.out.println("Неосуществимо");
+            System.out.println("Неосущесвует");
             double[] y = gaussian.dual();
             for (int j = 0; j < y.length; j++) {
                 System.out.println(" " + y[j] + "\n");
