@@ -14,9 +14,7 @@ public class countingNumbers {
             try (OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream(file), StandardCharsets.UTF_8)) {
                 writer.write ("asd\n");
                 writer.write ("Тест\n");
-                writer.write("2 1 0\n" +
-                                 "0 2 0\n" +
-                                 "0 0 2\n");
+                writer.write("фывыфв21321№*\n");
                 
             }
 
